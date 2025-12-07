@@ -1,7 +1,7 @@
 # Shodan-plugin
 这款插件延续了Shodan搜索引擎的特性，并且可以直接在Google商店内下载安装。
 
-插件链接:https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap?utm_source=ext_app_menu
+插件链接：https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap?utm_source=ext_app_menu
 # 
 整体教程
 
